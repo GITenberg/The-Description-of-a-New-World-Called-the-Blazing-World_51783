@@ -1,0 +1,28 @@
+_repo: The-Description-of-a-New-World-Called-the-Blazing-World_51783
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Newcastle, Margaret Cavendish, Duchess of
+    aliases:
+    - Cavendish, Margaret, Duchess of Newcastle
+    - Lucas, Margaret
+    deathdate: 1674
+    gutenberg_agent_id: '46554'
+    url: http://www.gutenberg.org/2009/agents/46554
+description: ''
+gutenberg_issued: '2016-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51783'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Voyages, Imaginary -- Early works to 1800'
+- !lcsh 'Utopias -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: The Description of a New World, Called the Blazing-World
+url: http://www.gutenberg.org/ebooks/51783
