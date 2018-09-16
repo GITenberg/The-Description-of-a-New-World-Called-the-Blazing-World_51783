@@ -1,5 +1,8 @@
 _repo: The-Description-of-a-New-World-Called-the-Blazing-World_51783
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51783-h/images/cover.jpg
 creator:
   author:
     agent_name: Newcastle, Margaret Cavendish, Duchess of
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '46554'
     url: http://www.gutenberg.org/2009/agents/46554
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51783#The-Description-of-a-New-World-Called-the-Blazing-World
 gutenberg_issued: '2016-04-18'
 gutenberg_type: Text
 identifiers:
